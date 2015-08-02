@@ -996,13 +996,16 @@ figure.effect-bubba:hover p {
     }
 
     .proj-text{
-    	margin-top: -10px
-    	font-size: 8px;
+    	font-size: 6px;
+    }
+
+    .proj-title{
+    	font-size: 6px;
     }
 
     .scroll-down{
     	margin-top: 30px;
     	bottom: 10px; 
     }
-}
+
 
