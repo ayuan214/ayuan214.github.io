@@ -995,10 +995,9 @@ figure.effect-bubba:hover p {
 		text-align: center; 
     }
 
-   .grid figure p {
-		letter-spacing: 1px;
-		font-size: 45%;
-	}	
+	.proj-text{
+		display: none;
+	}
 
     .scroll-down{
     	margin-top: 30px;
