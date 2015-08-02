@@ -995,6 +995,10 @@ figure.effect-bubba:hover p {
 		text-align: center; 
     }
 
+    .proj-text{
+    	font-size: 8px;
+    }
+
     .scroll-down{
     	margin-top: 30px;
     	bottom: 10px; 
