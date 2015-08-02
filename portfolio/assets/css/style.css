@@ -996,11 +996,12 @@ figure.effect-bubba:hover p {
     }
 
     .proj-text{
-    	font-size: 10px;
+    	font-size: 10px; 
     }
 
     .scroll-down{
-    	margin-top: 30px; 
+    	margin-top: 30px;
+    	bottom: 10px; 
     }
 }
 
