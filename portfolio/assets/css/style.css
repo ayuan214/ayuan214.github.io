@@ -976,3 +976,17 @@ figure.effect-bubba:hover p {
 	color: black;
 }
 
+@media (max-width: 1200px) {
+    .row .col-lg-4 > .pull-right {
+        float: none !important;
+    }
+    .row .col-lg-4 > .pull-left {
+        float: none !important;
+    }
+
+    .social-btn{
+    	margin-top: 5px;
+    	margin-bottom: 5px;
+    }
+}
+
