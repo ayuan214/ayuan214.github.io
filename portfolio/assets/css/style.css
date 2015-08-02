@@ -613,14 +613,15 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 .scroll-down {
-	position: absolute;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
 	left: 50%;
 	bottom: 40px;
 	border: 2px solid #fff;
 	border-radius: 50%;
 	height: 50px;
 	width: 50px;
-	margin-left: -15px;
 	display: block;
 	z-index: 10;
     text-align: center;
@@ -977,6 +978,7 @@ figure.effect-bubba:hover p {
 }
 
 @media (max-width: 1200px) {
+
     .row .col-lg-4 > .pull-right {
         float: none !important;
     }
@@ -987,6 +989,10 @@ figure.effect-bubba:hover p {
     .social-btn{
     	margin-top: 5px;
     	margin-bottom: 5px;
+    }
+	.intro-text
+    {
+		text-align: center; 
     }
 }
 
