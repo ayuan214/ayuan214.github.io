@@ -996,7 +996,7 @@ figure.effect-bubba:hover p {
     }
 
     .proj-text{
-    	font-size: 10px; 
+    	display: none;
     }
 
     .scroll-down{
